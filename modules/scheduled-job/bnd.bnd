@@ -1,0 +1,3 @@
+Bundle-Name: Sample Scheduled Job
+Bundle-SymbolicName: com.liferay.scheduled.jobs
+Bundle-Version: 1.0.0
